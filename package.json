@@ -1,0 +1,25 @@
+{
+  "name": "email-sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anphonic-ai/Email-Sender.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anphonic-ai/Email-Sender/issues"
+  },
+  "homepage": "https://github.com/Anphonic-ai/Email-Sender#readme",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.5.0",
+    "nodemailer": "^7.0.3"
+  }
+}
